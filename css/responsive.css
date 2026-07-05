@@ -17,7 +17,7 @@
 }
 
 .hero-logo img{
-    max-width:480px;
+    max-width:520px;
 }
 
 .solution-grid,
@@ -221,9 +221,7 @@ section h2{
 
 }
 
-body {
-    background: #ffdddd !important;
-}
+
 
 
 }
